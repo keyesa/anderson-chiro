@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Before running the project, you will have to have installed [yarn](https://classic.yarnpkg.com/en/docs/install) and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+Once the project is cloned, run:
+
+```bash
+yarn
+```
+
 First, run the development server:
 
 ```bash
